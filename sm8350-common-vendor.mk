@@ -1271,9 +1271,6 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.cwb@1.0 \
     vendor.oplus.hardware.ims@1.0 \
     vendor.oplus.hardware.radio@1.0 \
-    vendor.pixelworks.hardware.display@1.0 \
-    vendor.pixelworks.hardware.display@1.1 \
-    vendor.pixelworks.hardware.feature@1.0 \
     CACertService \
     CneApp \
     IWlanService \
